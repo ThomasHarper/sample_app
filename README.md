@@ -1,6 +1,6 @@
 # Ruby on Rails Tutorial sample application
 
-Current state : 6.2.5, remember to connect on learnenough
+Current state : 6.3.4, remember to connect on learnenough
 
 This is the sample application for
 [*Ruby on Rails Tutorial:
@@ -9,7 +9,7 @@ by [Michael Hartl](http://www.michaelhartl.com/).
 
 ## License
 
-All source code in the [Ruby on Rails Tutorial](http://railstutorial.org/)
+All source code in the [Ruby on Rails Tutorial](http://railstutorial.org/)  
 is available jointly under the MIT License and the Beerware License. See
 [LICENSE.md](LICENSE.md) for details.
 
