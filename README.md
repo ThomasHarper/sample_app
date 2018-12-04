@@ -1,6 +1,6 @@
 # Ruby on Rails Tutorial sample application
 
-Current state : 5.1, remember to connect on learnenough
+Current state : 6.2.5, remember to connect on learnenough
 
 This is the sample application for
 [*Ruby on Rails Tutorial:
